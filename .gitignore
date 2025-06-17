@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+sentiment_analizer/
 
 # Spyder project settings
 .spyderproject
