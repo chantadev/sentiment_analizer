@@ -1,0 +1,11 @@
+text,label,confidence
+"I absolutely love this product! Amazing quality and fast delivery.",positive,0.95
+"This is the worst purchase I've ever made. Complete waste of money.",negative,0.92
+"The product is okay, nothing special but it works fine.",neutral,0.68
+"Outstanding customer service and excellent product quality!",positive,0.89
+"Terrible experience, would not recommend to anyone.",negative,0.87
+"Average product, meets basic expectations.",neutral,0.71
+"Fantastic! Exceeded all my expectations. Will buy again.",positive,0.96
+"Poor quality materials, broke after one week of use.",negative,0.84
+"It's fine for the price, nothing more nothing less.",neutral,0.63
+"Best product in its category! Highly recommended.",positive,0.91
